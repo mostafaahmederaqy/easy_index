@@ -78,7 +78,6 @@ class MytabBar extends StatelessWidget {
             children: [
               MyHomePage(),
               Container()
-              // Icon(Icons.directions_bike),
             ],
           ),
         ),
