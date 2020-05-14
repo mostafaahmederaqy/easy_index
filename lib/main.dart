@@ -70,7 +70,6 @@ class MytabBar extends StatelessWidget {
               tabs: [
                 Tab(text: "first",),
                 Tab(text: "second",),
-                // Tab(icon: Icon(Icons.directions_bike)),
               ],
             ),
 
